@@ -5,6 +5,13 @@ public class Main {
 
         //Nuevo desarrollo
         int modificado = 30;
+
+        int cambio2 = 20;
+
+        for (int i=0; i<=10; i++){
+
+            //hola
+        }
         
     }
 }
